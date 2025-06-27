@@ -42,7 +42,6 @@
     7. Android apps cannot be built in Kotlin Playground.
     8. Android Studio will be used later for writing Android app code.
 3. About Kotlin playground
-    - **Explain the structure of playground** 
     1. Kotlin code is easy for humans to read but not directly understood by computers.
     2. The Kotlin compiler converts this code into machine instructions.
     3. If compilation succeeds, the program runs and follows each instruction.
