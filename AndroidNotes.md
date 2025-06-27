@@ -2,14 +2,9 @@
         - [Introduction](#introduction)
         - [Todo/Doubts](#tododoubts)
         - [Creating Android Project](#creating-android-project)
-        - [What is kotlin](#what-is-kotlin)
-        - [Koltin is bad](#koltin-is-bad)
         - [Resources/Links](#resourceslinks)
         - [Homework](#homework)
-
-
-
-
+- [L2: Kotlin Level 1](#l2-kotlin-level-1)
 
 # L1: Project creation
 
@@ -25,7 +20,6 @@
 1. [Kotlin Playground: For testing kotlin code](https://play.kotlinlang.org/)
 2. [Compose UI docs: Android UI documentation](https://developer.android.com/develop/ui/compose/documentation)
 
-admin support
 
 ### Homework
 1. Create a project
@@ -48,16 +42,18 @@ admin support
     7. Android apps cannot be built in Kotlin Playground.
     8. Android Studio will be used later for writing Android app code.
 3. About Kotlin playground
+    - **Explain the structure of playground** 
     1. Kotlin code is easy for humans to read but not directly understood by computers.
     2. The Kotlin compiler converts this code into machine instructions.
     3. If compilation succeeds, the program runs and follows each instruction.
-4. Hello world
-    ``` kotlin
+4. Hello world  
+    ```kotlin
     fun main() {
-        println(kotlin)
+        println("kotlin")
     } 
     ```
-
+    1. `main` is the starting point of a Kotlin program. Every Kotlin program must have a `main` function.
 
 5. Resources for this lecture
     1. [Kotlin Playground for Kotlin code testing](https://play.kotlinlang.org/)
+    2. 
